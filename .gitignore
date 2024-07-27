@@ -1,0 +1,12 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+
+# Pygame
+*.swp
+
+# Distribution
+dist/
+build/
+*.egg-info/
