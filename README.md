@@ -1,6 +1,6 @@
 # Rock, Paper, Scissors Game
 
-This game is a simple implementation of the classic "Rock, Paper, Scissors" game using Python and Pygame. The game sounds have been sourced from Soundsnap, and the icons from Flaticon, both of which offer free licenses for non-commercial projects.
+This game is a simple implementation of the classic "Rock, Paper, Scissors" game using Python and Pygame. The game sounds have been sourced from Soundsnap, and the icons from Flaticon, both of which offer free licenses for non-commercial projects. For the game, you can click one of the buttons (Rock, Paper, or Scissors). If you win, you will hear the win sound (sounds/win.wav) and your score will increment. If you lose, you will hear the lose sound (sounds/lose.wav) and the computer's score will increment. If you draw, you will hear the draw sound (sounds/draw.wav), and neither your score nor the computer's score will increment.
 
 ## Resources
 
